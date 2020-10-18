@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    color: darkviolet;
+}
+
+h1:hover {
+    background-color: cornsilk;
+}
